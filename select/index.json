@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エンドロールのその先へ",
+  "base_artist": "莉犬",
+  "createdAt": "2026-02-15T13:08:58.935423Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンドロールのその先へ",
+      "artist": "莉犬",
+      "has_synced": false,
+      "path": "select/pl_01_エンドロールのその先へ_莉犬.txt"
+    }
+  ]
+}
